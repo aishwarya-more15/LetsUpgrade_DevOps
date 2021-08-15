@@ -1,0 +1,8 @@
+Agenda Day1
+* Understanding DevOps
+* DevOps Lifecycle
+* Distributed Version Control system
+* Working with git
+* Ansible
+* Jenkins
+* CI/CD Pipelines
